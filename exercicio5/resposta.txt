@@ -1,0 +1,11 @@
+Solução:
+Ligo o Interruptor 1 e o deixo ligado por 5 minutos. 
+Depois, desligo o Interruptor 1 e ligo o Interruptor 2. 
+Vou até a sala das lâmpadas e verifico se a lâmpada está quente, fria ou acesa. 
+Se uma lâmpada estiver acesa, ela é controlada pelo Interruptor 2. 
+Se uma lâmpada estiver apagada e quente, ela é controlada pelo Interruptor 1. 
+Eliminando a lâmpada quente e a acesa, volto ao local dos interruptores, desligo o Interruptor 2 e ligo o Interruptor 3. 
+Faço uma segunda visita à sala das lâmpadas. 
+Se uma lâmpada estiver acesa na segunda visita, ela é controlada pelo Interruptor 3. 
+Se estiver apagada e fria, ela é controlada pelo Interruptor 1. 
+Dessa forma, identifico qual interruptor controla cada lâmpada com duas visitas à sala.
